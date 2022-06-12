@@ -1,9 +1,9 @@
-//DIEGO NEGRETE ALVES
-Matrícula:CB1740229
-ROBERTO RODRIGUES DA SILVA JUNIOR
-Matrícula:CB3000419//
+/*
+DIEGO NEGRETE     CB1740229
+ROBERTO RODRIGUES CB3000419
+*/
 
-package tp03;
+package com.mycompany.tp03;
 
 import static java.lang.System.out;
 
@@ -15,3 +15,4 @@ public class TP03 {
         out.println(hora.getHora2());
         out.println(hora.getSegundos() + " Segundos");
     }    
+}
